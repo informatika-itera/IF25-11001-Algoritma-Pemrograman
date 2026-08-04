@@ -2,7 +2,7 @@
 
 Mata kuliah **Algoritma Pemrograman** membangun fondasi *computational thinking* dan logika pemrograman mahasiswa Teknik Informatika melalui pseudocode dan flowchart, sebelum diimplementasikan dalam bahasa C++ pada mata kuliah sinergi **Praktikum Pemrograman (IF25-11002)**.
 
-Repo ini berisi seluruh materi ajar: slide deck per pertemuan, RPS, naskah UTS/UAS beserta kunci jawaban, dan dokumen sinkronisasi dengan Praktikum.
+Repo ini berisi seluruh materi ajar: slide deck per pertemuan, RPS, contoh UTS/UAS, dan dokumen sinkronisasi dengan Praktikum.
 
 ## Informasi Umum
 
