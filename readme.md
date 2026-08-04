@@ -13,8 +13,8 @@ Repo ini berisi seluruh materi ajar: slide deck per pertemuan, RPS, contoh UTS/U
 | **Bobot** | 2 SKS (Teori) |
 | **Program Studi** | S1 Teknik Informatika |
 | **Institusi** | Institut Teknologi Sumatera (ITERA) |
-| **Dosen Penyusun** | Muhammad Habib Algifari, S.Kom., M.T.I. |
-| **Mata Kuliah Sinergi** | Praktikum Pemrograman — IF25-11002 (2 SKS) |
+| **Dosen Penyusun** | [M Habib Algifari](https://github.com/mh4Scripts) |
+| **Mata Kuliah Sinergi** | IF25-11002 - Praktikum Pemrograman (2 SKS) |
 
 ## Peta 16 Pertemuan
 
@@ -81,7 +81,6 @@ Setiap pertemuan Algoritma (2 SKS Teori) dirancang sejajar dengan Praktikum Pemr
 .
 ├── README.md
 ├── Rencana Pembelajaran Semester.pdf
-├── ~~Briefing Sinkronisasi Algoritma Praktikum ~~ (TODO).md
 ├── slides/
 │   ├── P1 - Computational Thinking.pdf
 │   ├── P2 - TipeData Variabel Ekspresi.pdf
