@@ -73,7 +73,7 @@ Penilaian mengacu pada dua CPMK yang dinilai **paralel** setiap pertemuan — **
 
 ## Sinergi dengan Praktikum Pemrograman
 
-Setiap pertemuan Algoritma (2 SKS Teori) dirancang sejajar dengan Praktikum Pemrograman — IF25-11002 (2 SKS): konsep dan pseudocode dibahas di Algoritma, lalu diimplementasikan dalam C++ pada sesi Praktikum di minggu yang sama. Detail pemetaan ada di [`Briefing_Sinkronisasi_Algoritma_Praktikum.md`](./Briefing_Sinkronisasi_Algoritma_Praktikum.md) [TODO].
+Setiap pertemuan Algoritma (2 SKS Teori) dirancang sejajar dengan Praktikum Pemrograman — IF25-11002 (2 SKS): konsep dan pseudocode dibahas di Algoritma, lalu diimplementasikan dalam C++ pada sesi Praktikum di minggu yang sama.
 
 ## Struktur Direktori
 
