@@ -1,6 +1,6 @@
 # Algoritma Pemrograman (IF25-11001)
 
-Mata kuliah **Algoritma Pemrograman** membangun fondasi *computational thinking* dan logika pemrograman mahasiswa Teknik Informatika melalui pseudocode dan flowchart, sebelum diimplementasikan dalam bahasa C++ pada mata kuliah sinergi **Praktikum Pemrograman (IF25-11002)**.
+Mata kuliah **Algoritma Pemrograman** membangun pondasi *computational thinking* dan logika pemrograman mahasiswa Teknik Informatika melalui pseudocode dan flowchart, sebelum diimplementasikan dalam bahasa C++ pada mata kuliah sinergi **Praktikum Pemrograman (IF25-11002)**.
 
 Repo ini berisi seluruh materi ajar: slide deck per pertemuan, RPS, contoh UTS/UAS, dan dokumen sinkronisasi dengan Praktikum.
 
