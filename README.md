@@ -20,9 +20,9 @@ Repo ini berisi seluruh materi ajar: slide deck per pertemuan, RPS, contoh UTS/U
 
 | Pertemuan | Topik | Fase |
 |:---:|---|---|
-| P1 | Computational Thinking | Fondasi |
-| P2 | Tipe Data, Variabel dan Ekspresi | Fondasi |
-| P3 | Operator dan Precedence | Fondasi |
+| P1 | Computational Thinking | Pondasi |
+| P2 | Tipe Data, Variabel dan Ekspresi | Pondasi |
+| P3 | Operator dan Precedence | Pondasi |
 | P4 | Percabangan | Kontrol Alur |
 | P5 | Perulangan 1 | Kontrol Alur |
 | P6 | Perulangan 2 dan Pattern | Kontrol Alur |
@@ -73,7 +73,7 @@ Penilaian mengacu pada dua CPMK yang dinilai **paralel** setiap pertemuan — **
 
 ## Sinergi dengan Praktikum Pemrograman
 
-Setiap pertemuan Algoritma (2 SKS Teori) dirancang sejajar dengan Praktikum Pemrograman — IF25-11002 (2 SKS): konsep dan pseudocode dibahas di Algoritma, lalu diimplementasikan dalam C++ pada sesi Praktikum di minggu yang sama. Detail pemetaan ada di [`Briefing_Sinkronisasi_Algoritma_Praktikum.md`](./Briefing_Sinkronisasi_Algoritma_Praktikum.md).
+Setiap pertemuan Algoritma (2 SKS Teori) dirancang sejajar dengan Praktikum Pemrograman — IF25-11002 (2 SKS): konsep dan pseudocode dibahas di Algoritma, lalu diimplementasikan dalam C++ pada sesi Praktikum di minggu yang sama. Detail pemetaan ada di [`Briefing_Sinkronisasi_Algoritma_Praktikum.md`](./Briefing_Sinkronisasi_Algoritma_Praktikum.md) [TODO].
 
 ## Struktur Direktori
 
@@ -100,10 +100,6 @@ Setiap pertemuan Algoritma (2 SKS Teori) dirancang sejajar dengan Praktikum Pemr
     ├── Contoh UTS Algoritma Pemrograman.pdf
     └── Contoh UAS Algoritma Pemrograman.pdf
 ```
-
-## Format Setiap Slide Deck
-
-Semua deck (P1–P7, P9–P15) mengikuti struktur konsisten: Cover → Review pertemuan sebelumnya → Sub-CPMK → Outline → Hook → Materi inti → Workshop → Jawaban → Algorithm Detective → Progress PBL → Ringkasan → Exit Ticket → Tugas → Referensi → Penutup.
 
 ## Referensi Utama
 
