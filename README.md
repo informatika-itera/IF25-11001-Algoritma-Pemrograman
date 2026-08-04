@@ -81,24 +81,22 @@ Setiap pertemuan Algoritma (2 SKS Teori) dirancang sejajar dengan Praktikum Pemr
 .
 ├── README.md
 ├── Rencana Pembelajaran Semester.pdf
-├── slides/
-│   ├── P1 - Computational Thinking.pdf
-│   ├── P2 - TipeData Variabel Ekspresi.pdf
-│   ├── P3 - Operator Precedence.pdf
-│   ├── P4 - Percabangan.pdf
-│   ├── P5 - Perulangan1.pdf
-│   ├── P6 - Perulangan2 Pattern.pdf
-│   ├── P7 - Review SimulasiUTS.pdf
-│   ├── P9 - Array1D.pdf
-│   ├── P10 - Array2D String.pdf
-│   ├── P11 - Searching.pdf
-│   ├── P12 - Sorting.pdf
-│   ├── P13 - Fungsi.pdf
-│   ├── P14 - Rekursi Struct.pdf
-│   └── P15 - Review SimulasiUAS.pdf
-└── ujian/
-    ├── Contoh UTS Algoritma Pemrograman.pdf
-    └── Contoh UAS Algoritma Pemrograman.pdf
+├── P1 - Computational Thinking.pdf
+├── P2 - TipeData Variabel Ekspresi.pdf
+├── P3 - Operator Precedence.pdf
+├── P4 - Percabangan.pdf
+├── P5 - Perulangan1.pdf
+├── P6 - Perulangan2 Pattern.pdf
+├── P7 - Review SimulasiUTS.pdf
+├── P8 - Contoh UTS Algoritma Pemrograman.pdf
+├── P9 - Array1D.pdf
+├── P10 - Array2D String.pdf
+├── P11 - Searching.pdf
+├── P12 - Sorting.pdf
+├── P13 - Fungsi.pdf
+├── P14 - Rekursi Struct.pdf
+├── P15 - Review SimulasiUAS.pdf
+└── P16 - Contoh UAS Algoritma Pemrograman.pdf
 ```
 
 ## Referensi Utama
