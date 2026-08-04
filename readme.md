@@ -80,9 +80,8 @@ Setiap pertemuan Algoritma (2 SKS Teori) dirancang sejajar dengan Praktikum Pemr
 ```
 .
 ├── README.md
-├── RPS_OBE_Algoritma_Pemrograman.pptx
-├── RPS_Filled_IF25-11002.xlsx
-├── Briefing_Sinkronisasi_Algoritma_Praktikum.md
+├── Rencana Pembelajaran Semester.pdf
+├── ~~Briefing Sinkronisasi Algoritma Praktikum ~~ (TODO).md
 ├── slides/
 │   ├── P1 - Computational Thinking.pdf
 │   ├── P2 - TipeData Variabel Ekspresi.pdf
@@ -103,8 +102,6 @@ Setiap pertemuan Algoritma (2 SKS Teori) dirancang sejajar dengan Praktikum Pemr
     └── Contoh UAS Algoritma Pemrograman.pdf
 ```
 
-> Struktur di atas adalah saran pengelompokan; sesuaikan path pada repo aktual bila berbeda.
-
 ## Format Setiap Slide Deck
 
 Semua deck (P1–P7, P9–P15) mengikuti struktur konsisten: Cover → Review pertemuan sebelumnya → Sub-CPMK → Outline → Hook → Materi inti → Workshop → Jawaban → Algorithm Detective → Progress PBL → Ringkasan → Exit Ticket → Tugas → Referensi → Penutup.
@@ -116,7 +113,3 @@ Semua deck (P1–P7, P9–P15) mengikuti struktur konsisten: Cover → Review pe
 - Gaddis — *Starting Out with C++*
 - Wing, J.M. (2006) — "Computational Thinking", *Communications of the ACM*
 - [visualgo.net](https://visualgo.net) · [cs50.harvard.edu](https://cs50.harvard.edu) · [csunplugged.org](https://csunplugged.org)
-
-## Tentang Materi Ini
-
-Slide deck dibangun secara terprogram menggunakan [PptxGenJS](https://gitbrent.github.io/PptxGenJS/) untuk menjaga konsistensi desain di seluruh 16 pertemuan.
